@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sample-uber-app",
+    "slug": "sample-uber-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sample-uber-app"
+}
